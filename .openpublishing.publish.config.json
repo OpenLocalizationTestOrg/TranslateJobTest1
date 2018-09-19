@@ -75,16 +75,16 @@
         ]
       },
       "ECMA2Yaml": {
-        "SourceXmlFolder": "dotnet/xml",
-        "OutputYamlFolder": "dotnet/api",
+        "SourceXmlFolder": "TranslateJobTest1/xml",
+        "OutputYamlFolder": "TranslateJobTest1/api",
         "Flatten": true,
-        "id": "dotnet-template"
+        "id": "TranslateJobTest1"
       },
       "SplitTOC": [
-        "dotnet/api/dotnet-template/toc.yml"
+        "TranslateJobTest1/api/TranslateJobTest1/toc.yml"
       ],
       "DiffFolder": [
-        "dotnet/api"
+        "TranslateJobTest1/api"
       ]
     }
   ],
